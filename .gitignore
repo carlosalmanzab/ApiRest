@@ -2,8 +2,7 @@
 *.class
 *.classpath
 
-# IDE setting and other
-*.mvn/
+# IDE and Project setting and other
 *target/
 *.settings/
 
